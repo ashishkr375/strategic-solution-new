@@ -34,7 +34,7 @@ export const servicesContent: Record<string, ServiceContent> = {
     name: "Accounting & Bookkeeping",
     shortDescription: "Ensure compliance and informed financial decision-making by preparing your accounts according to IASs & IFRSs with our qualified CAs.",
     description: "Books of accounts of any organisation provide a basis for taking any financial decision, therefore it's important to ensure recording of correct and complete financial transactions as per International Accounting Standards (IASs) or International Financial Reporting Standards (IFRSs). So, every business needs to have an enhanced accounting and book-keeping system to ensure that financial statements of a business give a true and fair view of its financial position and performance, and are also prepared in compliance with local laws, IASs & IFRSs.",
-    imageUrl: "https://i.postimg.cc/Kckdmb4j/image.png",
+    imageUrl: "https://i.postimg.cc/N0d4ZdXm/image.png",
     offerings: [
       "Budgets and forecasting",
       "Projections",
@@ -62,7 +62,7 @@ export const servicesContent: Record<string, ServiceContent> = {
     name: "Taxation Services",
     shortDescription: "Optimise your tax savings through tax planning & impact analysis and get rid of potential non compliance penalties through our professionals.",
     description: "Governments impose taxes on individuals and organisations, to fund its various public expenditures, which can broadly be categorised into direct and indirect taxes. Tax regulations bring compliance responsibility i.e. strict and complex reporting requirements which ultimately raises the cost of doing business. Therefore, it's important for companies to have a professional firm that can help them to comply with tax laws.",
-    imageUrl: "https://i.postimg.cc/Kckdmb4j/image.png",
+    imageUrl: "https://i.postimg.cc/gk3KGzRY/image.png",
     offerings: [
       "VAT registrations",
       "VAT planning (VAT Savings)",
@@ -95,7 +95,7 @@ export const servicesContent: Record<string, ServiceContent> = {
     name: "Bank Account Opening",
     shortDescription: "Simplify and expedite opening your company bank account with our specialised services, offering tailored solutions and streamlined procedures.",
     description: "No company can thrive without a bank account. Due to regulatory difficulties, opening bank accounts, especially for freshly incorporated entities, is complicated and time consuming. Due to lack of compliance and technical experience, most of the entities struggle to open bank accounts, but eventually either fail or waste their time which can be detrimental for the fresh startups. Since, freshly established enterprises can't expand their business without a bank account therefore, the founders have to bear financial and business loss as well.",
-    imageUrl: "https://i.postimg.cc/Kckdmb4j/image.png",
+    imageUrl: "https://i.postimg.cc/8CXRZj8b/image.png",
     offerings: [
       "Referring to bankers closely working with us",
       "Necessary documents preparation",
@@ -116,7 +116,7 @@ export const servicesContent: Record<string, ServiceContent> = {
     name: "Audit & Assurance",
     shortDescription: "Boost stakeholders' confidence and get a transparent picture of financial statements through our complete range of assurance services.",
     description: "Audit and Assurance Services are required by all kinds of organisations irrespective of their size and industry and it helps organisations to maintain trust with all the stakeholders. The purpose of an audit is to provide reasonable assurance (by an independent third party) that the financial statements are free from material misstatements. An assurance engagement is a broader type of engagement that provides a level of assurance that is less than absolute. Audit of the financial statements can help organisations in effective decision-making, reduced risk of fraud and error, improved corporate governance, enhanced reliability of financial statements, improved compliance with laws and regulations, and enhanced efficiency and effectiveness of operations.",
-    imageUrl: "https://i.postimg.cc/Kckdmb4j/image.png",
+    imageUrl: "https://i.postimg.cc/3JQgSsqz/image.png",
     offerings: [
       "Statutory Audit",
       "Internal Audit",
@@ -137,7 +137,7 @@ export const servicesContent: Record<string, ServiceContent> = {
     name: "Compliance Services",
     shortDescription: "Adhering to evolving local laws and regulations require continuous updating of compliance checklists to operate successfully in any country.",
     description: "Strategic Solutions understands the critical importance of compliance for your business with ever-evolving regulations & increasing scrutiny from regulatory bodies and develops a customised strong compliance framework for your organisation. We offer a wide range of compliance solutions to help businesses navigate complex compliance requirements with ease and avoid financial loss arising in the form of fines and penalties due to non-compliance.",
-    imageUrl: "https://i.postimg.cc/Kckdmb4j/image.png",
+    imageUrl: "https://i.postimg.cc/vHXcrCwr/image.png",
     offerings: [
       "Anti Money Laundering (AML) Compliance",
       "Economic Substance Regulation (ESR) Compliance",
